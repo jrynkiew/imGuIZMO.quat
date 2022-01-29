@@ -17,7 +17,7 @@
 #include "vGizmo.h"
 
 #if !defined(IMGUIZMO_IMGUI_FOLDER)
-    #define IMGUIZMO_IMGUI_FOLDER /home/jeremi/Coding/Apps/JRPC/external/imgui/
+    #define IMGUIZMO_IMGUI_FOLDER ../../imgui/
 #endif
 
 #define GET_PATH(P) P
